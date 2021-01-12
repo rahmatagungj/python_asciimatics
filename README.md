@@ -1,5 +1,5 @@
 # Python Asciimatics
-Displays images and animations in python, supports png, jpg and gif
+Displays images and animations in python, supports png, jpg and gif.
 
 Steps for use:
 1. Make sure python and asciimatics are installed.
