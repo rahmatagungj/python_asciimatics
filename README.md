@@ -1,13 +1,13 @@
-# python_asciimatics
-Tampilkan gambar dan animasi dengan python, support png,jpg dan gif
+# Python Asciimatics
+Displays images and animations in python, supports png, jpg and gif
 
-Langkah penggunaan :
-1. Pastikan sudah memasang python dan asciimatics.
+Steps for use:
+1. Make sure python and asciimatics are installed.
 
-Untuk memasang Asciimatics bisa dengan ketik "pip install asciimatics" di Terminal/CMD
+To install Asciimatics you can type "pip install asciimatics" in Terminal / CMD
 
-2.Buatlah gambar dengan format JPG, PNG atau GIF.
+2. Create images in JPG, PNG or GIF format.
 
-3.Buka omat.py lalu ubah teks dan namafile gambar.
+3. Open omat.py and change the text and image file name.
 
-4.Jalankan dengan "python omat.py"
+4. Run with "python omat.py"
